@@ -1,5 +1,5 @@
 import Card from "./Card";
 import FormField from "./FormField";
-import Loader from "./loader";
+import Loader from "./Loader";
 
 export { Card, FormField, Loader };
